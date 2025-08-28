@@ -1,0 +1,8 @@
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
+D:\Development\Git\BridgeApp\BridgeApp\wwwroot\css\app.css
+D:\Development\Git\BridgeApp\BridgeApp\wwwroot\css\bootstrap\bootstrap.min.css
+D:\Development\Git\BridgeApp\BridgeApp\wwwroot\css\bootstrap\bootstrap.min.css.map
+D:\Development\Git\BridgeApp\BridgeApp\wwwroot\index.html

@@ -1,1 +1,0 @@
-D:\Development\Git\BridgeApp\BridgeApp\BridgeApp.csproj;x64

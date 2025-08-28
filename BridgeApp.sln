@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.7.34221.43
+VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeApp", "BridgeApp\BridgeApp.csproj", "{E9FF9602-F22C-4B5B-860B-7FEB10A7B628}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeApp", "BridgeApp.csproj", "{232B53EC-00FB-488E-8579-0C12422924D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,17 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E9FF9602-F22C-4B5B-860B-7FEB10A7B628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9FF9602-F22C-4B5B-860B-7FEB10A7B628}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9FF9602-F22C-4B5B-860B-7FEB10A7B628}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{E9FF9602-F22C-4B5B-860B-7FEB10A7B628}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9FF9602-F22C-4B5B-860B-7FEB10A7B628}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E9FF9602-F22C-4B5B-860B-7FEB10A7B628}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{232B53EC-00FB-488E-8579-0C12422924D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232B53EC-00FB-488E-8579-0C12422924D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232B53EC-00FB-488E-8579-0C12422924D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232B53EC-00FB-488E-8579-0C12422924D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {862348F6-4AB5-4E65-B9BE-2B69D306A14E}
+		SolutionGuid = {FEA03889-0384-4035-907F-5A4296E5B100}
 	EndGlobalSection
 EndGlobal

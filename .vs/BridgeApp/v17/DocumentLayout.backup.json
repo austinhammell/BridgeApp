@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|d:\\development\\git\\bridgeapp\\bridgeapp\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|d:\\development\\git\\bridgeapp\\bridgeapp\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}|Code",
+      "RelativeMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|solutionrelative:platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}|Code"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|d:\\development\\git\\bridgeapp\\bridgeapp\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|d:\\development\\git\\bridgeapp\\bridgeapp\\platforms\\ios\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}",
+      "RelativeMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|solutionrelative:platforms\\ios\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|d:\\development\\git\\bridgeapp\\bridgeapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|d:\\development\\git\\bridgeapp\\bridgeapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|d:\\development\\git\\bridgeapp\\bridgeapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|d:\\development\\git\\bridgeapp\\bridgeapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{232B53EC-00FB-488E-8579-0C12422924D8}|BridgeApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-28T01:34:33.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "Platforms\\Windows\\Package.appxmanifest",
+              "ToolTip": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeToolTip": "Platforms\\Windows\\Package.appxmanifest",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2025-08-28T01:33:49.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-28T01:31:11.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Info.plist",
+              "DocumentMoniker": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "Platforms\\iOS\\Info.plist",
+              "ToolTip": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "Platforms\\iOS\\Info.plist",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T01:28:29.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T01:14:23.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T01:07:31.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T00:55:38.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Development\\Git\\BridgeApp\\BridgeApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T00:54:20.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
